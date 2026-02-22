@@ -45,7 +45,7 @@ const TECH_ICONS = [
 const SKILL_GROUPS = [
   { cat:"Programming",     items:["Python","React","JavaScript"],                                      color:"#4f46e5" },
   { cat:"AI & ML",         items:["Supervised Learning","LLM Integration","Predictive Modelling","Data Analysis"], color:"#0891b2" },
-  { cat:"Web & Database",  items:["HTML5 / CSS3","PHP","MySQL","Backend Architecture"],               color:"#7c3aed" },
+  { cat:"Web & Database",  items:["HTML5 / CSS3","MySQL"],               color:"#7c3aed" },
   { cat:"CS Fundamentals", items:["DSA","Operating Systems","DBMS","Computer Networks"],              color:"#059669" },
 ];
 
