@@ -292,7 +292,7 @@ const Bar = memo(function Bar({ label, pct, color, delay = 0 }) {
 });
 
 /* ─── TypeWriter (isolated, no prop changes after mount) ─── */
-const TYPEWORDS = ["Founder & CEO @ Axentus","AI Engineer in the Making","React Developer","Problem Solver","System Architect"];
+const TYPEWORDS = ["Computer Science and Engineering Student","Founder & CEO @ Axentus","AI Engineer in the Making","React Developer","Problem Solver","System Architect"];
 function TypeWriter() {
   const [text, setText] = useState("");
   const state = useRef({ wi:0, ci:0, del:false });
